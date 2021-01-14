@@ -1,0 +1,53 @@
+.img-komen{
+    border-radius: 50%;
+    width: 40%;
+}
+
+#tabelpengumuman {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#tabelpengumuman td, #tabelpengumuman th {
+    border: 1px solid #ddd;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#tabelpengumuman tr:nth-child(even){
+    background-color: rgba(240, 240, 240, 0.2);
+}
+
+#tabelpengumuman td:nth-child(odd){
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+}
+
+#tabelpengumuman td:nth-child(even){
+    text-align: left;
+    vertical-align: top;
+    padding: 10px 10px 10px 30px;
+}
+
+#tabelpengumuman th {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: #6730ec;
+  color: white;
+  text-align: center;
+}
+
+#tabeltambah {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 50%;
+    text-align: left;
+}
+
+#tabeltambah td, #tabeltambah th {
+    padding-left: 10px;
+    padding-bottom: 5px;
+    vertical-align: top;
+}

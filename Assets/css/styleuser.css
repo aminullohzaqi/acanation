@@ -1,0 +1,16 @@
+select{
+    width: 150px;
+}
+
+#tabeltambah {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 50%;
+    text-align: left;
+}
+
+#tabeltambah td, #tabeltambah th {
+    padding-left: 10px;
+    padding-bottom: 5px;
+    vertical-align: top;
+}

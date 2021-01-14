@@ -1,0 +1,113 @@
+.img-komen{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+.img-sender{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.img-comment{
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+}
+.image-sender{
+    width: 10%;
+    padding-top: 10px;
+}
+
+.image-comment{
+    margin-top: 3px;
+}
+.name-sender{
+    margin-top: -5px;
+}
+.date-sender{
+    margin-top: -15px;
+}
+
+#tabelforum {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tabelforum td, #tabelforum th {
+    border: 1px solid #ddd;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#tabelforum td:nth-child(odd){
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    width: 100px;
+}
+
+#tabelforum td:nth-child(even){
+    text-align: left;
+    vertical-align: top;
+    padding: 10px 10px 10px 30px;
+}
+
+.judul-forum{
+    border-bottom: 3px solid #6730ec;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.konten-forum{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.sender{
+    justify-content: center;
+}
+
+.forum-sender{
+    width: 60%;
+}
+.title-sender{
+    border-bottom: 3px solid #6730ec;
+}
+
+.isi-forum{
+    padding-top:10px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #a7a7a7;
+}
+
+.comment{
+    margin-bottom: 10px;
+}
+
+.komentar{
+    padding-top: 20px;
+}
+
+.konten-comment{
+    padding-left: 10px;
+}
+
+textarea{
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 15px;
+    outline: none;
+}
+
+.btn-komen{
+    margin-top: 12px;
+    margin-left: 10px;
+    height: 37px;
+    width: 37px;
+    border-radius: 10px;
+}

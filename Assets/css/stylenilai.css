@@ -1,0 +1,21 @@
+#tabeljudul {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+
+#tabeljudul td:nth-child(even){
+    text-align: left;
+    vertical-align: center;
+    padding-left: 20px;
+}
+
+#tabeltambah{
+    margin-top: 20px;
+}
+
+#tabeltambah td:nth-child(even){
+    text-align: left;
+    vertical-align: center;
+    padding-left: 20px;
+}

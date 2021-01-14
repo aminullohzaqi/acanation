@@ -1,0 +1,59 @@
+.total{
+    color: #fdfdfd;
+    border-radius: 10px;
+}
+.welcome{
+    background-color: #4da9ffda;
+}
+
+.sks{
+    background-color: #e98c00da;
+}
+
+.ip{
+    background-color: #e90000da;
+}
+
+.dashboard-content{
+    padding: 15px 10px 10px 10px;
+    justify-content: space-between;
+}
+
+.icon{
+    color: rgba(34, 34, 34, 0.4);
+    padding-bottom: 10px;
+}
+
+#nilai{
+    margin-top: 15px;
+}
+
+.chart{
+    border-top: 7px solid #307bec;
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+}
+
+.pengumuman{
+    margin-top: 15px;
+    background-color: rgba(54, 197, 253, 0.3);
+    border-radius: 10px;
+}
+
+.image{
+    padding-top: 10px;
+}
+
+.judul{
+    border-bottom: 3px solid #6730ec;
+    padding-bottom: 20px;
+}
+
+.sender{
+    border-bottom: 3px solid #a7a7a7;
+    padding-bottom: 10px;
+}
+
+.content{
+    padding-top: 10px;
+}

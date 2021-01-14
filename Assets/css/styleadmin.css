@@ -1,0 +1,46 @@
+.total{
+    color: #fdfdfd;
+    border-radius: 10px;
+    flex: 0 0 22.833333325%;
+}
+.user{
+    background-color: #4da9ffda;
+}
+
+.matkul{
+    background-color: #009600da;
+}
+
+.sks{
+    background-color: #e98c00da;
+}
+
+.angkatan{
+    background-color: #e90000da;
+}
+
+.dashboard-content{
+    padding: 15px 10px 10px 10px;
+    justify-content: space-between;
+}
+
+.icon{
+    color: rgba(34, 34, 34, 0.4);
+    padding-bottom: 10px;
+}
+
+
+.chart{
+    border-top: 7px solid #307bec;
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+}
+
+.judul{
+    border-bottom: 3px solid #6730ec;
+    padding-bottom: 20px;
+}
+
+canvas{
+    margin-top: 50px;
+}
